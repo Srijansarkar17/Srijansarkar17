@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijansarkar17&label=Profile%20views&color=0e75b6&style=flat" alt="srijansarkar17" /> </p>
 
-- 🌱 I’m currently learning **Supervised Machine Learning and Tensorflow**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **srijanb463@gmail.com**
 
