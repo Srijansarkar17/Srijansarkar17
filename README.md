@@ -1,27 +1,96 @@
-![logo](https://github.com/Srijansarkar17/Srijansarkar17/blob/main/Blue%20%26%20Teal%20Modern%20Personal%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Srijan Sarkar</h1>
-<h3 align="center">A passionate machine learning and deep learning engineer</h3>
+# Hi there, I'm Srijan 👋
+## Full Stack AI Engineer | 4x Hackathon Winner
 
-<img align="right" alt="coding" width="400" src="https://preview.redd.it/ai-is-taking-over-v0-l2pzxryu5gxa1.jpg?auto=webp&s=5698e400ee5dd1282ca511d4baee9acfb430800b">
+<div align="center">
+  
+  ![](https://github.com/coderkai03/stats/blob/master/generated/overview.svg)
+  ![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
+  
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijansarkar17&label=Profile%20views&color=0e75b6&style=flat" alt="srijansarkar17" /> </p>
-
-- 🌱 I’m currently learning **Generative and AgenticAI**
-
-- 📫 How to reach me **srijanb463@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/srijan sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan sarkar" height="30" width="40" /></a>
-<a href="https://kaggle.com/srijansarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srijansarkar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/srijanb463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srijanb463" height="30" width="40" /></a>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Srijansarkar17&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" 
+    alt="Srijan's GitHub stats" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijansarkar17&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" 
+    alt="Top Languages" 
+    height="150"
+  />
+  <img
+    src = "https://github-readme-streak-stats.herokuapp.com/?user=Srijansarkar17&theme=vue-dark&hide_border=false"
+    alt = "Srijan's Streak"
+    height = "150"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## ➡️ About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijansarkar17&show_icons=true&locale=en&layout=compact" alt="srijansarkar17" /></p>
+- 👋 Hi, I'm Srijan! I'm a full-stack/AI developer.
+- 🎓 CS @ SRM University
+- 🎯 I love building AI tools that enhance everyday life!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijansarkar17&show_icons=true&locale=en" alt="srijansarkar17" /></p>
+## ✅ Languages and Frameworks
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijansarkar17&" alt="srijansarkar17" /></p>
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>AI / ML Libraries</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Anthropic-000000?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LangChain-5A5FC7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-00000?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/YOLO-701DAB?style=flat-square&logo=yolo&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Agno-FF4018?style=flat-square&logo=agno&logoColor=white"/>
+      <img src="https://img.shields.io/badge/n8n-E3486D?style=flat-square&logo=n8n&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Backend & Dev Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Fastapi-1C9A8E.svg?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Clerk-003D5E.svg?style=flat-square&logo=clerk"/>
+      <img src="https://img.shields.io/badge/Git-D74934.svg?style=flat-square&logo=git"/>
+    </td>
+  </tr>
+
+
+  
+</table>
+
+## 🤝 Connect with me!!
+
+[![Twitter](https://img.shields.io/badge/Twitter-003E54?style=for-the-badge&logo=x&logoColor=white)](https://x.com/srijan4ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/riancorcino](https://www.linkedin.com/in/srijan-sarkar-90177b288/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/rian.corcino](https://www.instagram.com/srijann16/))
+
+## 🧋 Favorite movie
+
+it's interstellar
