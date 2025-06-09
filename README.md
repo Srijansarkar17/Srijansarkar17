@@ -78,6 +78,7 @@
       <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
       <img src="https://img.shields.io/badge/Clerk-003D5E.svg?style=flat-square&logo=clerk"/>
       <img src="https://img.shields.io/badge/Git-D74934.svg?style=flat-square&logo=git"/>
+      <img src="https://img.shields.io/badge/Jasmine-863F7E.svg?style=flat-square&logo=jasmine"/>
     </td>
   </tr>
 
