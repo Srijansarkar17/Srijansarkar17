@@ -26,6 +26,10 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Srijansarkar17&theme=darkhub&row=1&column=6" alt="Trophies"/>
+</p>
+
 ## ➡️ About Me
 
 - 👋 Hi, I'm Srijan! I'm a full-stack/AI developer.
@@ -81,18 +85,13 @@
       <img src="https://img.shields.io/badge/Jasmine-863F7E.svg?style=flat-square&logo=jasmine"/>
     </td>
   </tr>
-
-
-  
 </table>
 
 ## 🤝 Connect with me!!
 
-[![Twitter](https://img.shields.io/badge/Twitter-003E54?style=for-the-badge&logo=x&logoColor=white)](https://x.com/srijan4ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-sarkar-90177b288/)
+[![Twitter](https://img.shields.io/badge/Twitter-003E54?style=for-the-badge&logo=x&logoColor=white)](https://x.com/srijan4ai)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-sarkar-90177b288/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srijann16?igsh=a291enB5dXFreHk3)
 
-
 ## 🧋 Favorite movie
-
-it's interstellar
+It's **Interstellar** 🌌
