@@ -89,8 +89,9 @@
 ## 🤝 Connect with me!!
 
 [![Twitter](https://img.shields.io/badge/Twitter-003E54?style=for-the-badge&logo=x&logoColor=white)](https://x.com/srijan4ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/riancorcino](https://www.linkedin.com/in/srijan-sarkar-90177b288/))
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/rian.corcino](https://www.instagram.com/srijann16/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-sarkar/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srijann16?igsh=a291enB5dXFreHk3)
+
 
 ## 🧋 Favorite movie
 
