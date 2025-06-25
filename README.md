@@ -17,7 +17,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijansarkar17&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" 
     alt="Top Languages" 
-    height="156"
+    height="150"
   />
   <img
     src = "https://github-readme-streak-stats.herokuapp.com/?user=Srijansarkar17&theme=vue-dark&hide_border=false"
